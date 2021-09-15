@@ -1,19 +1,18 @@
 {
-	"name" : "A1",
+	"name" : "4071 A1 Luchnikov",
 	"version" : 1,
 	"creationdate" : 3714528594,
-	"modificationdate" : 3714528594,
-	"viewrect" : [ 0.0, 0.0, 300.0, 500.0 ],
+	"modificationdate" : 3714543602,
+	"viewrect" : [ 25.0, 106.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
 	"autolocalize" : 0,
 	"contents" : 	{
 		"patchers" : 		{
-			"A1.maxpat" : 			{
+			"4071 A1 Luchnikov.maxpat" : 			{
 				"kind" : "patcher",
-				"local" : 1,
-				"toplevel" : 1
+				"local" : 1
 			}
 
 		}
